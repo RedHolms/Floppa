@@ -1,9 +1,5 @@
-<center>
-<h1>
-	Floppa
-</h1>
-</center>
+<div align="center"><h1>
+    Floppa
+</h1></div>
 
-======================================
-
-Floppa - little multiplatformed game engine
+Floppa - little multi-platform game engine
