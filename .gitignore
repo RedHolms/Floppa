@@ -1,0 +1,7 @@
+# cmake output
+build
+out
+
+# ide configs
+.vs
+CMakePresets.json
